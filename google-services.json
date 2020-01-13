@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "773206282465",
+    "firebase_url": "https://tcgap-040319.firebaseio.com",
+    "project_id": "tcgap-040319",
+    "storage_bucket": "tcgap-040319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773206282465:android:c7820b506c16217f",
+        "android_client_info": {
+          "package_name": "com.example.gastrobar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773206282465-bv88mmmdbbrk9giqt5hm4tk8s0reftmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gastrobar",
+            "certificate_hash": "805642fc0a47df07bfe3aa1ab3d9cba7b3342369"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxYUVV7Rr652O1rO2CmgZlL03XCLoKbzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773206282465-49c84mp4mh7mfkvmq7tko017omobeiot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773206282465:android:f58be6d002a90556",
+        "android_client_info": {
+          "package_name": "com.example.resto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773206282465-7u275pdc57g2gpvr6jkdks8jrpp8r681.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resto",
+            "certificate_hash": "805642fc0a47df07bfe3aa1ab3d9cba7b3342369"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxYUVV7Rr652O1rO2CmgZlL03XCLoKbzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773206282465-49c84mp4mh7mfkvmq7tko017omobeiot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
